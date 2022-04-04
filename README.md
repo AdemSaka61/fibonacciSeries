@@ -2,4 +2,4 @@
 fibonacci serisi
 ## Hazırlayan
 * Edimain
-** JAVA ile Fibonacci serisi hazırlama
+* JAVA ile Fibonacci serisi hazırlama
